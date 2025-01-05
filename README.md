@@ -1,19 +1,29 @@
 # ALEX-AI-chatbot-
 
 
-🧠 AI Chatbot Webpage
-This project features an interactive AI chatbot webpage, developed using HTML, CSS, and JavaScript, with backend functionality implemented in C language.
+🧠 AI Chatbot Project
+This folder contains the complete source code and resources for an AI chatbot webpage, designed to be opened and executed in Visual Studio Code (VS Code).
 
 ✨ Key Features:
 
-Real-time chatbot interaction.
-User-friendly interface.
-Backend logic powered by C for efficient processing.
-🚀 Technologies Used:
+Interactive chatbot interface.
+Backend powered by C language for efficient logic and processing.
+User-friendly design with seamless integration of frontend and backend.
+
+🚀 How to Run the Project:
+
+Clone or Download the repository.
+Open the folder in VS Code.
+Ensure all dependencies are installed.
+Run the project to experience the chatbot in action.
+
+📌 Technologies Used:
 
 Frontend: HTML, CSS, JavaScript
 Backend: C
-📌 Future Improvements:
 
-Integration with AI/ML models for advanced responses.
-Voice-based interaction enhancements.
+🔗 Future Enhancements:
+
+Advanced AI/ML integration for smarter responses.
+Voice-based interaction capabilities.
+
